@@ -1,0 +1,5 @@
+All models are provided in .ipt (For Autodesk Apps, Fusion360, Inventor) .step (For all other modelling software) and .stl
+
+Ender 5 foot spacer: Lifts the machine to allow the larger Z stepper.
+
+SKR1.4 Turbo Case: Unfinished case for the main board, requires sides and top.
